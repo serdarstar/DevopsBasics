@@ -1,2 +1,2 @@
-<h1> Azure DevOps Training Test Pipeline</h1>
+<h1> Azure DevOps Training Test Pipelines </h1>
 
